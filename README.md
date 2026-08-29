@@ -1,10 +1,10 @@
-# Projeto Agenda de Contatos Django
+# Contactly
 
 Uma aplicação web para gerenciar uma agenda de contatos desenvolvida com Django.
 
 ## Site Hospedado
 
-Acesse a aplicação em [Agenda](https://agendaotaviossousa.pythonanywhere.com)
+Acesse a aplicação em [Contactly](https://agendaotaviossousa.pythonanywhere.com)
 
 ## Funcionalidades
 
